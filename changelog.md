@@ -14,3 +14,6 @@ Change Log (Newest Addition at Bottom)
 ## 2018-01-19 22:25 PM
 ### Added
 - Added a Tooltip
+## 2018-01-19 22:42 PM
+### Added
+- Added quote display 
