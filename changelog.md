@@ -17,3 +17,6 @@ Change Log (Newest Addition at Bottom)
 ## 2018-01-19 22:42 PM
 ### Added
 - Added quote display 
+## 2018-01-19 22:58 PM
+### Added
+- Formatted the Quote Display
