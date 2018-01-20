@@ -11,3 +11,6 @@ Change Log (Newest Addition at Bottom)
 ### Added
 - Added an avatar image
 - Added a new unique quote entry
+## 2018-01-19 22:25 PM
+### Added
+- Added a Tooltip
